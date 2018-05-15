@@ -1,5 +1,7 @@
 # FastWVC
-The implementation of the algorithm proposed in `Towards Faster Local Search for Minimum Weighted Vertex Cover on Massive Graphs`.
+The implementation of the algorithm proposed in `Towards Faster Local Search for Minimum Weighted Vertex Cover on Massive Graphs` (summited to [`Information Sciences 2018`]).
+
+[`Information Sciences 2018`]:https://www.journals.elsevier.com/information-sciences
 
 Corresponding Author: Professor Shaowei Cai, Institute of Software, Chinese Academy of Sciences.
 
