@@ -5,6 +5,18 @@ Corresponding Author: Professor Shaowei Cai, Institute of Software, Chinese Acad
 
 Authors: Shaowei Cai; Yuanjie Li; Wenyin Hou; Haoran Wang.
 
+Contact information: caisw (at) ios.ac.cn
+
 ---
 
-Contact information: caisw (at) ios.ac.cn
+## Compiling example
+
+```
+g++ mwvc.cpp -O3 --std=c++11 -o mwvc
+```
+
+## Running example
+
+```
+./mwvc bio-celegans.mwvc 0 1000 0
+```
